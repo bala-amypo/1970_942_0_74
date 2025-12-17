@@ -1,4 +1,4 @@
-package com.example.demo.Serviceimpl;
+package com.example.demo.serviceimpl;
 import com.example.demo.service.stereotype.Service;
 import com.example.demo.service.StudentService;
 import com.example.demo.repository.StuRepository;
