@@ -48,4 +48,7 @@ public class Stuentity{
         this.cgpa=cgpa;
 
     }
+    public Stuentity(){
+
+    }
 }
