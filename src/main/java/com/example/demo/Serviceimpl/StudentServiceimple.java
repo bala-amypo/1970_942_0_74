@@ -4,5 +4,11 @@ import com.example.demo.service.StudentService;
 
 @Service
 public class StudentServiceimple implements StudentService{
-
+ private final StuRepository studentrepository;
+ public StudentServiceimple(StuRepository studentrepository){
+    this.studentrepository
+ }
+Stuentity saveStudent(Stuentity student){
+return;
+}
 }
