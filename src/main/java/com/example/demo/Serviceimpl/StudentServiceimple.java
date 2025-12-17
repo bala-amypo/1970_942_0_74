@@ -1,5 +1,8 @@
 package com.example.demo.Serviceimpl;
-package com.example.demo
-public class StudentServiceImple implements StudentService{
+import com.example.demo.service.stereotype.Service;
+import com.example.demo.service.StudentService;
+
+@Service
+public class StudentServiceimple implements StudentService{
 
 }
