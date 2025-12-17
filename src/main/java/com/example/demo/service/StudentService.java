@@ -1,7 +1,7 @@
 package com.example.demo.service;
-import org.springframework.stereotype.Service;
-import com.example.demo.entity.Stuentity;
 
+import com.example.demo.entity.Stuentity;
+import org.springframework.stereotype.Service;
 @Service
 public interface StudentService {
 
