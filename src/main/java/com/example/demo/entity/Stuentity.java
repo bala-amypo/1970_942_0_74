@@ -6,7 +6,6 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
 @Entity
-@Table(name="students")
 public class Stuentity{
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -50,6 +49,6 @@ public class Stuentity{
 
     }
     public Stuentity(){
-
+        
     }
 }
